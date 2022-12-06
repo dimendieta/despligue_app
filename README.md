@@ -27,3 +27,6 @@ Creamos un documento llamado Dockerfile (vi Dockerfile)
 
 Colocamos el comando docker build -t myapp .
 ![image](https://user-images.githubusercontent.com/91167870/205786793-757d90be-0b51-49c9-b25b-fcf4c51bf99e.png)
+
+Colocamos el comando (docker run -d --network db_default -p 8081:8081 myapp) y verificamos en localhost:/users y nos deberia salir la tabla
+![image](https://user-images.githubusercontent.com/91167870/205787982-691aeaeb-d5bc-4a5f-ba66-756ffb7a0afb.png)
