@@ -25,3 +25,5 @@ Colocamos un ls para ver los directorios que disponemos
 Creamos un documento llamado Dockerfile (vi Dockerfile)
 ![image](https://user-images.githubusercontent.com/91167870/205786259-d0b58b88-413d-4f43-a8a2-065c84facbca.png)
 
+Colocamos el comando docker build -t myapp .
+![image](https://user-images.githubusercontent.com/91167870/205786793-757d90be-0b51-49c9-b25b-fcf4c51bf99e.png)
